@@ -57,9 +57,9 @@ This project is a simple React application that simulates a Magic Eight Ball. Us
 - Easy to understand and modify React component structure.
 
 ## Screenshots
-![Eight Ball Screenshot](../eight-ball-exercise/public/Screenshot-start.png)
-![Eight Ball Screenshot Sample 01](../eight-ball-exercise/public/Screenshot-green.png)
-![Eight Ball Screenshot Sample 02](../eight-ball-exercise/public/Screenshot-yellow.png)
+![Eight Ball Screenshot](../public/Screenshot-start.png)
+![Eight Ball Screenshot Sample 01](../public/Screenshot-green.png)
+![Eight Ball Screenshot Sample 02](../public/Screenshot-yellow.png)
 
 
 ## Technologies Used
